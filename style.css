@@ -71,7 +71,10 @@ body::before {
     height: 100%;
     transform: scale(2);
     transition: all 1.3s ease;
+<<<<<<< HEAD
     object-fit: contain;
+=======
+>>>>>>> caeb7810a1192ca8f43933a0c5a234e0332c4170
 }
 
 #beneranblur {
